@@ -1,4 +1,4 @@
-**Mern Stack Interview Question**
+**Mern Stack / Full Stack / React JS/ Node JS / Express JS / Mongo DB Interview Question List**
 
 
 Curated by Abhay Bharati, this project offers a comprehensive collection of interview questions designed to help developers prepare for a variety of technical interviews.
